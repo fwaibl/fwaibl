@@ -1,5 +1,13 @@
 ## Hi there 👋
+I am a computational chemist from Innsbruck, Austria, currently living in Switzerland.
+I am a member of @rinikerlab, where I am doing my Postdoc. Before that, I was a member of @liedllab in Innsbruck, where I did my PhD.
 
+These are the repositories where I am the main (or one of the main) contributors:
+* [gisttools](https://github.com/liedllab/gisttools) - for post-processing Grid Inhomogeneous Solvation Theory calculations (GIST)
+* [second-disorder](https://github.com/liedllab/second-disorder) - a Python implementation of second-order corrections for GIST
+* [PEP-Patch](https://github.com/liedllab/surface_analyses) - a Python tool to visualize electrostatic and hydrophobic surfaces of large molecules
+* [msms-wrapper](https://github.com/rinikerlab/msms_wrapper) - A simple Python wrapper for the msms program by Michel Sanner
+* [macrocycle-ff-validation](https://github.com/rinikerlab/macrocycle-ff-validation) - Code and data for my paper on force field validation for macrocycles.
 <!--
 **fwaibl/fwaibl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
